@@ -1,0 +1,94 @@
+# Covid19App
+Using Tkinter to create Covid19App and Police cases
+# A README file for the assessment, covid 19 and Stop & Search for Freedom of 
+# information app
+
+## The IDE used is Jupyter Notebook
+
+**  Python 3.10.1 **
+
+This is a readme for executing the codes in the assessment
+
+---
+
+## License & Copyright
+
+Copyright (c) 2001-2021 Python Software Foundation.
+All Rights Reserved.
+
+# requests
+
+requests is a python library for connecting to an API
+
+## Installation
+
+Use the package manager [pip install requests]
+
+## Import
+
+use [import requests] to import the package
+
+# requests_cache
+
+requests_cache is a python library used to cache APIs incase there is a network failure
+
+## Installation
+
+use the package manager [pip install requests_cache] to install it
+
+## Import
+
+use [import requests_cache] to import the package.
+
+## import
+
+After installing use [import requests] to import the package
+
+# pandas
+
+pandas is a python package for manipulating a dataframe
+
+## import
+
+use [from pandas import *] to import all the associated libraries in the pandas package,
+it does not works on Jupiter IDE but not on other IDEs like Spyder etc
+
+# matplotlib.pyplot
+
+matplotlib.pyplot is a python package for plotting graphs
+
+## import
+
+use [from matplotlib.pyplot import *] to import all the associated libraries in the package,
+it does not works on Jupiter IDE but not on other IDEs like Spyder etc
+
+# datetime
+
+datetime is a python package for changing date types
+
+## import
+
+use [from datetime import datetime] to import the datetime package,
+it does not works on Jupiter IDE but not on other IDEs like Spyder etc
+
+# numpy
+
+numpy is a python package for performing numerical computation
+
+## import
+
+use [from numpy import *] to import all the associated libraries in the package,
+it does not works on Jupiter IDE but not on other IDEs like Spyder etc
+
+# tkinter
+
+tkinter is a python package for creating GUI
+
+## import 
+
+use [from tkinter import *] to import the datetime package,
+it does not works on Jupiter IDE but not on other IDEs like Spyder etc
+
+
+
+
